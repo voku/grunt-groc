@@ -27,10 +27,11 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "groc": "^0.7.0",
+    "groc": "git+https://github.com/seltar/groc.git",
     "lodash": "~2.4.0"
   },
   "devDependencies": {
+    "groc": "git+https://github.com/seltar/groc.git",
     "grunt-contrib-jshint": "~0.6.4"
   },
   "peerDependencies": {
